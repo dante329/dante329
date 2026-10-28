@@ -1,7 +1,7 @@
 # 👋 Hi, I'm dante329
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=Algorithm;Postgrad+Exam;C++;Coffee+%26+Code;Big+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=Algorithm;Postgrad+Exam;C%2B%2B;Coffee+%26+Code;Big+Data" alt="Typing SVG" />
 </p>
 
 <p align="center">
