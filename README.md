@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  <i>⭐ Segui il tuo corso, e lascia dir le genti. -- Dante ⭐</i>
+  <i>⭐ Segui il tuo corso, e lascia dir le genti. — Dante ⭐</i>
 </p>
