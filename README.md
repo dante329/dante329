@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dante
+# 👋 Hi, I'm dante329
 
 <!-- 打字机动效标题 -->
 <p align="center">
@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dante&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Dante?label=Followers&style=flat-square&color=7C3AED" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Dante?label=Stars&style=flat-square&color=7C3AED" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=dante329&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dante329?label=Followers&style=flat-square&color=7C3AED" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/dante329?label=Stars&style=flat-square&color=7C3AED" alt="Stars" />
 </p>
 
 ---
@@ -25,12 +25,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=7c3aed" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dante329&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante329&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=7c3aed" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dante&theme=tokyonight&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dante329&theme=tokyonight&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" alt="Streak Stats" />
 </p>
 
 ---
@@ -38,11 +38,11 @@
 ## 🐍 Contribution Snake 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dante/Dante/main/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/dante329/dante329/main/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐ From Dante · Keep Coding, Keep Growing ⭐</i>
+  <i>⭐ From dante329 · Keep Coding, Keep Growing ⭐</i>
 </p>
