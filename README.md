@@ -1,7 +1,7 @@
 # 👋 Hi, I'm dante329
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=Java+Learner;Postgrad+Exam;DSA;Coffee+%26+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=Algorithm;Postgrad+Exam;C++;Coffee+%26+Code;Big+Data" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,idea,spring,mysql,git,github,vscode,linux,py,c,cpp&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,mysql,html,css,npm,spring,springboot,redis,nodejs,git,github,vscode,idea,linux,macos,jupyter,numpt,spark,kafka,hadoop,pandas&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -24,6 +24,9 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dante329&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed" alt="GitHub Stats" />
+</p>
+
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante329&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=7c3aed" alt="Top Languages" />
 </p>
 
