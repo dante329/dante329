@@ -1,6 +1,5 @@
-# 👋 Hi, I'm dante329
+# 👋 Hi, I'm Dante
 
-<!-- 打字机动效标题 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=60&lines=👨‍💻+Java+Backend+Learner;📚+Preparing+for+Postgraduate+Entrance+Exam;🎯+Data+Structure+%26+Algorithms;☕+Coffee+%26+Code" alt="Typing SVG" />
 </p>
@@ -13,11 +12,18 @@
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,idea,spring,mysql,git,github,vscode,linux,py,c,cpp&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,idea,spring,mysql,git,github,vscode,linux,py,c,cpp,hadoop,spark,docker,kafka,redis&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
 
 ---
@@ -44,5 +50,5 @@
 ---
 
 <p align="center">
-  <i>⭐ From dante329 · Keep Coding, Keep Growing ⭐</i>
+  <i>⭐ From Dante · True failure is giving up. ⭐</i>
 </p>
