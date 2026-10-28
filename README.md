@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,mysql,html,css,npm,spring,redis,nodejs,git,github,vscode,idea,linux,hadoop&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,mysql,css,npm,spring,redis,nodejs,git,github,vscode,idea,linux,hadoop&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dante329&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed" alt="GitHub Stats" />
 </p>
 
-<p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante329&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=7c3aed" alt="Top Languages" />
 </p>
 
