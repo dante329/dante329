@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,mysql,html,css,npm,spring,springboot,redis,nodejs,git,github,vscode,idea,linux,hadoop&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,mysql,html,css,npm,spring,redis,nodejs,git,github,vscode,idea,linux,hadoop&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
