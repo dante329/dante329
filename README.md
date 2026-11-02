@@ -22,24 +22,28 @@
 
 ## 📊 GitHub Stats
 
+<!-- Cards are rendered by .github/workflows/profile-cards.yml and served via jsDelivr,
+     so they no longer depend on github-readme-stats.vercel.app / streak-stats.herokuapp.com.
+     If fastly.jsdelivr.net is slow for you, swap the host to https://gcore.jsdelivr.net -->
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dante329&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed" alt="GitHub Stats" />
+  <img src="https://fastly.jsdelivr.net/gh/dante329/dante329@main/assets/github-stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante329&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=7c3aed" alt="Top Languages" />
+  <img src="https://fastly.jsdelivr.net/gh/dante329/dante329@main/assets/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dante329&theme=tokyonight&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" alt="Streak Stats" />
+  <img src="https://fastly.jsdelivr.net/gh/dante329/dante329@main/assets/streak-stats.svg" alt="Streak Stats" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake 
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dante329/dante329/main/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://fastly.jsdelivr.net/gh/dante329/dante329@main/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 ---
